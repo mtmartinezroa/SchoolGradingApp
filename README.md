@@ -7,5 +7,7 @@ Este programa que permite añadir alumnos con sus notas a una base de datos y mo
 Herramientas: 
 
 IDE: Eclipse
+
 Lenguaje: Java
+
 Base de datos local: Xampp con SQL 
